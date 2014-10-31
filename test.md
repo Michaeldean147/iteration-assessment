@@ -1,3 +1,0 @@
-HEY
-
-Hello world
